@@ -1,0 +1,2 @@
+1. 把merge_excel.exe和要合并的excel文件放在同一个目录。
+2. 双击merge_excel.exe，自动合并完成生成result.xls文件。
